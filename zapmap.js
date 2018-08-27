@@ -18,12 +18,18 @@ var map = AmCharts.makeChart( "chartdiv", {
   "dataProvider": {
     "map": "worldLow",
     "images": [ {
+      "imageURL": "https://nicholascharriere.com/static/img/me%28light%29.png",
+      "height": 50,
+      "width": 50,
       "zoomLevel": 5,
       "scale": 0.5,
       "title": "Brussels",
       "latitude": 50.8371,
       "longitude": 4.3676
     }, {
+      "imageURL": "https://nicholascharriere.com/static/img/welcome-to-the-internet.jpg",
+      "height": 50,
+      "width": 50,
       "zoomLevel": 5,
       "scale": 0.5,
       "title": "Copenhagen",
